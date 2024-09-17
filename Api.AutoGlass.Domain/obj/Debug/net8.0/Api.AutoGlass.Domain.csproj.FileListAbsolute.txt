@@ -1,0 +1,12 @@
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\bin\Debug\net8.0\Api.AutoGlass.Domain.deps.json
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\bin\Debug\net8.0\Api.AutoGlass.Domain.dll
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\bin\Debug\net8.0\Api.AutoGlass.Domain.pdb
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\Api.AutoGlass.Domain.csproj.AssemblyReference.cache
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\Api.AutoGlass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\Api.AutoGlass.Domain.AssemblyInfoInputs.cache
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\Api.AutoGlass.Domain.AssemblyInfo.cs
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\Api.AutoGlass.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\Api.AutoGlass.Domain.dll
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\refint\Api.AutoGlass.Domain.dll
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\Api.AutoGlass.Domain.pdb
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Domain\obj\Debug\net8.0\ref\Api.AutoGlass.Domain.dll

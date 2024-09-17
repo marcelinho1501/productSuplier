@@ -1,0 +1,17 @@
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\bin\Debug\net8.0\Api.AutoGlass.Infrastructure.deps.json
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\bin\Debug\net8.0\Api.AutoGlass.Infrastructure.runtimeconfig.json
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\bin\Debug\net8.0\Api.AutoGlass.Infrastructure.dll
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\bin\Debug\net8.0\Api.AutoGlass.Infrastructure.pdb
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\bin\Debug\net8.0\Api.AutoGlass.Domain.dll
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\bin\Debug\net8.0\Api.AutoGlass.Domain.pdb
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.AutoGlass.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.AutoGlass.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.AutoGlass.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.AutoGlass.Infrastructure.AssemblyInfo.cs
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.AutoGlass.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.Auto.593B024C.Up2Date
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.AutoGlass.Infrastructure.dll
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\refint\Api.AutoGlass.Infrastructure.dll
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.AutoGlass.Infrastructure.pdb
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\Api.AutoGlass.Infrastructure.genruntimeconfig.cache
+C:\Users\marcelo.desouza\source\repos\Api.AutoGlass\Api.AutoGlass.Infrastructure\obj\Debug\net8.0\ref\Api.AutoGlass.Infrastructure.dll

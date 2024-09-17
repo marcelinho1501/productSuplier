@@ -1,0 +1,6 @@
+@Api.AutoGlass_HostAddress = http://localhost:5211
+
+GET {{Api.AutoGlass_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
